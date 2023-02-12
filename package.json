@@ -1,0 +1,22 @@
+{
+  "name": "cypress_ui_automation-1",
+  "version": "1.0.0",
+  "description": "cypress_framework",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiwali-singh/cypress_ui_automation.git"
+  },
+  "author": "shiwali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiwali-singh/cypress_ui_automation/issues"
+  },
+  "homepage": "https://github.com/shiwali-singh/cypress_ui_automation#readme",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
